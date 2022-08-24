@@ -1,8 +1,0 @@
-package com.leong.pelaburan.Repository;
-
-import com.leong.pelaburan.entity.Schedule;
-
-public interface ScheduleRepository extends CustomizedRepository<Schedule, Long> {
-
-}
-
